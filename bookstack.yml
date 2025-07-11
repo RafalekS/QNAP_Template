@@ -13,7 +13,7 @@ services:
       - DB_USER=bookstack
       - DB_PASS=${DATABASE_PASSWORD}
       - DB_DATABASE=bookstackapp
-	  - APP_KEY=ZMIQwoYvkKHhtpdDtnSfChn2YoqILth12p359rBMRjY=
+      - APP_KEY=ZMIQwoYvkKHhtpdDtnSfChn2YoqILth12p359rBMRjY=
     volumes:
       - /share/Containers/Bookstack/config:/config
     ports:
