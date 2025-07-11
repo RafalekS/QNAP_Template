@@ -1338,7 +1338,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "bookstack.yml",
-        "url": "https://github.com/RafalekS/QNAP_Template/raw/refs/heads/main"
+        "url": "https://github.com/RafalekS/QNAP_Template"
       },
       "title": "Bookstack",
       "type": 3
